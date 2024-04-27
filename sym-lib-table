@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "hyperram_asic_qfn")(type "KiCad")(uri "${KIPRJMOD}/hyperram_asic_qfn.kicad_sym")(options "")(descr ""))
+)
