@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SamacSys")(type "KiCad")(uri "C:/Users/Zwierzak/KiCAD/Libs/SamacSys_Parts.pretty")(options "")(descr "")(disabled))
+  (lib (name "hyperram_asic_qfn")(type "KiCad")(uri "${KIPRJMOD}/hyperram_asic_qfn.pretty")(options "")(descr ""))
+)
