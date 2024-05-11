@@ -13153,7 +13153,7 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "1V8"
 			(at 340.9188 68.6816 90)
 			(effects
 				(font
@@ -14013,7 +14013,7 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "3V3"
 			(at 337.1088 30.5816 90)
 			(effects
 				(font
@@ -15588,7 +15588,7 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "VCC"
 			(at 112.3188 82.6516 90)
 			(effects
 				(font
@@ -17951,7 +17951,7 @@
 				)
 			)
 		)
-		(property "Value" "CLOCK"
+		(property "Value" "CLK"
 			(at 254.5588 67.4116 90)
 			(effects
 				(font
@@ -18221,7 +18221,7 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "GND"
 			(at 144.0688 38.2016 90)
 			(effects
 				(font
@@ -21803,7 +21803,7 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "5V"
 			(at 144.0688 30.5816 90)
 			(effects
 				(font
