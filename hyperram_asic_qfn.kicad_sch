@@ -13427,7 +13427,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22"
 			(at 186.69 173.355 90)
 			(effects
 				(font
