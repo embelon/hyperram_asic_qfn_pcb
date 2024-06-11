@@ -5,3 +5,7 @@ HyperRAM controller was submitted in [GFMPW-0 (5V)](https://platform.efabless.co
 
 HyperRAM controller IP was created to work with Cypress S27KL0641:
 https://github.com/embelon/wb_hyperram
+
+### Images
+![top](https://embelon.github.io/hyperram_asic_qfn_pcb/top.png)
+![bottom](https://embelon.github.io/hyperram_asic_qfn_pcb/bottom.png)
